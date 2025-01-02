@@ -7,3 +7,7 @@ monte_carlo_analysis/
 
 # Ignore BT-related auto-generated file
 *.btproj
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
