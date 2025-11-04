@@ -4,9 +4,11 @@ __pycache__
 # Ignore everything under the 'output' folder
 output/
 monte_carlo_analysis/
+temp_auto_push.bat
 
 # Ignore BT-related auto-generated file
 *.btproj
 
 # Ignore MacOS specific files
-.DS_Store
+.DS_Store.gitignore
+branch_structure.json
