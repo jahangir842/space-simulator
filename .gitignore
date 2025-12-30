@@ -2,8 +2,10 @@ __pycache__
 *.pyc
 
 # Ignore everything under the 'output' folder
+temp_auto_push.bat
 output/
 monte_carlo_analysis/
 
 # Ignore BT-related auto-generated file
-*.btproj
+*.btproj.gitignore
+branch_structure.json
