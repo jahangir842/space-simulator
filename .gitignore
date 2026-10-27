@@ -8,5 +8,4 @@ monte_carlo_analysis/
 
 # Ignore BT-related auto-generated file
 *.btproj
-.gitignore
 branch_structure.json
